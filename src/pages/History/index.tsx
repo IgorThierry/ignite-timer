@@ -58,6 +58,24 @@ export function History() {
               <td>Há 2 meses</td>
               <td>Concluído</td>
             </tr>
+            <tr>
+              <td>Tarefa</td>
+              <td>20 minutos</td>
+              <td>Há 2 meses</td>
+              <td>Concluído</td>
+            </tr>
+            <tr>
+              <td>Tarefa</td>
+              <td>20 minutos</td>
+              <td>Há 2 meses</td>
+              <td>Concluído</td>
+            </tr>
+            <tr>
+              <td>Tarefa</td>
+              <td>20 minutos</td>
+              <td>Há 2 meses</td>
+              <td>Concluído</td>
+            </tr>
           </tbody>
         </table>
       </HistoryList>
