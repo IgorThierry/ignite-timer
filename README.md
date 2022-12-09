@@ -40,6 +40,7 @@ Depois de cada 25 minutos separados, é preciso tirar um momento para relaxar e 
 - [Vite](https://github.com/vitejs/vite)
 - [Phosphor Icons](https://github.com/phosphor-icons/phosphor-home)
 - [Styled Components](https://github.com/styled-components/styled-components)
+- [React Hook Form](https://github.com/react-hook-form/react-hook-form)
 
 ## 💻 Executando a aplicação
 
