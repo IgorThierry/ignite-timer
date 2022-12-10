@@ -41,6 +41,7 @@ Depois de cada 25 minutos separados, é preciso tirar um momento para relaxar e 
 - [Phosphor Icons](https://github.com/phosphor-icons/phosphor-home)
 - [Styled Components](https://github.com/styled-components/styled-components)
 - [React Hook Form](https://github.com/react-hook-form/react-hook-form)
+- [Zod](https://github.com/colinhacks/zod)
 
 ## 💻 Executando a aplicação
 
