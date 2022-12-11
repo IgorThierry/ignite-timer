@@ -1,4 +1,4 @@
-import { createContext, ReactNode, useState } from 'react'
+import { createContext, ReactNode, useContext, useState } from 'react'
 
 interface CreateCycleData {
   task: string
@@ -26,6 +26,8 @@ interface CyclesContextType {
 }
 
 export const CyclesContext = createContext({} as CyclesContextType)
+
+export const useCyclesContext = () => useContext(CyclesContext)
 
 interface CyclesContextProviderProps {
   children: ReactNode
