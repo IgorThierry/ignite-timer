@@ -42,6 +42,7 @@ Depois de cada 25 minutos separados, é preciso tirar um momento para relaxar e 
 - [Styled Components](https://github.com/styled-components/styled-components)
 - [React Hook Form](https://github.com/react-hook-form/react-hook-form)
 - [Zod](https://github.com/colinhacks/zod)
+- [Immer](https://github.com/immerjs/immer)
 
 ## 💻 Executando a aplicação
 
