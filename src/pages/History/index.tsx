@@ -23,10 +23,13 @@ export function History() {
           </thead>
           <tbody>
             {cycles.map((cycle) => {
-              const formatedStartDate = formatDistanceToNow(cycle.startDate, {
-                addSuffix: true,
-                locale: ptBR,
-              })
+              const formatedStartDate = formatDistanceToNow(
+                new Date(cycle.startDate),
+                {
+                  addSuffix: true,
+                  locale: ptBR,
+                },
+              )
 
               return (
                 <tr key={cycle.id}>
